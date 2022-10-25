@@ -6,7 +6,7 @@
 
 
 # Intro to DAS Data 
-To get started, you will need to install Anaconda and create an environment with some Python Modules related to our demonstration.
+To get started, you will need to install Anaconda, create an environment with some Python Modules related to our demonstration. You will also want to download the DAS data so as to run the code.
 
 
 # 0. Installation
