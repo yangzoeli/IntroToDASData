@@ -1,5 +1,5 @@
 [//]: # (
-    This file is DAS data introduction tutorial made for Mexico trip.
+    This file is the DAS data introduction tutorial made for workshop in UNAM, Mexico.
     Yang Li
     Oct 10, 2022
     )
@@ -32,14 +32,14 @@ To launch Jupyter Notebook, just run:
 
 # 2. Download data from Globus
 
-If you haven't use globus before, try:
+If you never used globus before, try:
 
 - create a [globus ID](https://www.globusid.org/create?viewlocale=en_US)
 - Install [Globus Connect Personal](https://www.globus.org/globus-connect-personal)
 - Download [data](https://app.globus.org/file-manager?origin_id=706e304c-5def-11ec-9b5c-f9dfb1abb183&origin_path=%2FDASworkshop%2F)
 
 
-**DASworkshop** folder in Globus include DAS data we use. You could also get access to more DAS data in **PubDAS** folder. More details about [PubDAS](https://eartharxiv.org/repository/view/3574/) can be found in the paper.
+**DASworkshop** folder in Globus include DAS data we used for this demo. You could also get access to more DAS data in **PubDAS** folder. More details about [PubDAS](https://eartharxiv.org/repository/view/3574/) can be found in the paper.
 
 
 
