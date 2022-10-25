@@ -6,7 +6,7 @@
 
 
 # Intro to DAS Data 
-To get started, you will need to install Anaconda, create an environment with some Python Modules related to our demonstration. You will also want to download the DAS data so as to run the code.
+To get started, you will need to install Anaconda and create an environment with some Python Modules related to our demonstration. You will also want to download the DAS data so as to run the code.
 
 
 # 0. Installation
@@ -34,12 +34,12 @@ To launch Jupyter Notebook, just run:
 
 If you never used globus before, try:
 
-- create a [globus ID](https://www.globusid.org/create?viewlocale=en_US)
+- Create a [globus ID](https://www.globusid.org/create?viewlocale=en_US)
 - Install [Globus Connect Personal](https://www.globus.org/globus-connect-personal)
 - Download [data](https://app.globus.org/file-manager?origin_id=706e304c-5def-11ec-9b5c-f9dfb1abb183&origin_path=%2FDASworkshop%2F)
 
 
-**DASworkshop** folder in Globus include DAS data we used for this demo. You could also get access to more DAS data in **PubDAS** folder. More details about [PubDAS](https://eartharxiv.org/repository/view/3574/) can be found in the paper.
+**DASworkshop** folder in Globus includes DAS data we used for this demo. You could also get access to more DAS data in **PubDAS** folder. More details about [PubDAS](https://eartharxiv.org/repository/view/3574/) can be found in the paper.
 
 
 
