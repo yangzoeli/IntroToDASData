@@ -1,0 +1,15 @@
+name: um_das_intro
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numba 
+  - pandas 
+  - pycwt 
+  - mpi4py
+  - h5py
+  - scipy
+  - obspy
+  - jupyterlab
+
+
